@@ -8,7 +8,7 @@
 
 # Hi 👋 I'm Marc
 
-Ambassador for 📣 Quality Engineering Best Practices, 🤖 Test Automation, 💡 Continuous Improvement and ☁️ Serverless Architecture
+📣 Backend Engineer +  🤖 AI Enthusiast
 
 ### 🔭 Current Side Project
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcdacz&repo=compare-pdf)](https://github.com/marcdacz/compare-pdf)
