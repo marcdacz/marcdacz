@@ -1,6 +1,6 @@
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="Working from home coding illustration" />
-
 # Hi, I'm Marc
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="Working from home coding illustration" />
 
 Software Engineer + AI Builder  
 Working from home, building tools that make testing and personal workflows smoother.
@@ -9,6 +9,8 @@ Working from home, building tools that make testing and personal workflows smoot
 [GitHub](https://github.com/marcdacz) ·
 [Medium](https://medium.com/@mdacanay) ·
 [Email](mailto:mdacanay@gmail.com)
+
+<br clear="right" />
 
 ## Projects I'm Building
 
