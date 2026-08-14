@@ -1,6 +1,6 @@
 # Hi, I'm Marc
 
-Software Engineer + AI Builder  
+Dad, Software Engineer, AI Builder  
 Working from home, building tools that make testing and personal workflows smoother.
 
 <p>
